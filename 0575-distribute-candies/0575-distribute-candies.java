@@ -1,13 +1,20 @@
 import java.util.HashSet;
-
 class Solution {
     public int distributeCandies(int[] candyType) {
         HashSet<Integer> uniqueCandies = new HashSet<>();
 
-        for (int candy : candyType) {
-            uniqueCandies.add(candy);
+        int halfCandy = candyType.length / 2;
+
+        for (int i = 0; i <candyType.length; i++) {
+              uniqueCandies.add(candyType[i]);
         }
 
-        return Math.min(candyType.length / 2, uniqueCandies.size());
+         if (halfCandy < uniqueCandies.size() ){
+            return halfCandy;
+        }
+        else
+             return uniqueCandies.size();
+
+
     }
 }
