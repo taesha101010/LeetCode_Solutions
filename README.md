@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 ## Binary Search
