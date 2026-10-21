@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
