@@ -1,26 +1,34 @@
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.ArrayList;
-import java.util.Collections;
-
 class Solution {
     public int thirdMax(int[] nums) {
 
-        Arrays.sort(nums);
+        long first = Long.MIN_VALUE;
+        long second = Long.MIN_VALUE;
+        long third = Long.MIN_VALUE;
 
-        HashSet<Integer> distinct = new HashSet<>();
+        for (int num : nums) {
 
-        for (int i = 0; i < nums.length; i++) {
-            distinct.add(nums[i]);
+            if (num == first || num == second || num == third) {
+                continue;
+            }
+
+            if (num > first) {
+                third = second;
+                second = first;
+                first = num;
+            }
+            else if (num > second) {
+                third = second;
+                second = num;
+            }
+            else if (num > third) {
+                third = num;
+            }
         }
 
-        ArrayList<Integer> list = new ArrayList<>(distinct);
-        Collections.sort(list, Collections.reverseOrder());
-
-        if (list.size() >= 3) {
-            return list.get(2);
+        if (third == Long.MIN_VALUE) {
+            return (int) first;
         }
 
-        return list.get(0);
+        return (int) third;
     }
 }
