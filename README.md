@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
