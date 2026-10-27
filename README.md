@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 ## Depth-First Search
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
