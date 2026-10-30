@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
