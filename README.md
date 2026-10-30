@@ -41,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0860-lemonade-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
