@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0888-fair-candy-swap](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0888-fair-candy-swap) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
