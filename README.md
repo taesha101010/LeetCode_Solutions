@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0929-unique-email-addresses](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/taesha101010/LeetCode_Solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/taesha101010/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Greedy
 |  |
 | ------- |
