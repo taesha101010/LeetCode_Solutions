@@ -67,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/taesha101010/LeetCode_Solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [3360-stone-removal-game](https://github.com/taesha101010/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/taesha101010/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
