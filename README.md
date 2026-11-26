@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0733-flood-fill) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/taesha101010/LeetCode_Solutions/tree/master/0575-distribute-candies) |
